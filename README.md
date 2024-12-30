@@ -36,7 +36,7 @@ Logo yang kami terapkan pada aplikasi ini mengambil tema yang serupa yaitu denga
 
 <p>
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="300px" alt="Logo Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/tree/main/public/img/Logo.png" width="300px" alt="Logo Coffee Been">
     </span>
 </p>
 
