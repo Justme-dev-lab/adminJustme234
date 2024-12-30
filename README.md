@@ -8,9 +8,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/MySQL-.-orange.svg?style=flat-square" alt="mysql">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bootstrap-4-blue.svg?style=flat-square" alt="bootstrap">
-  </a>
 </div>
 
 ## Pengantar
@@ -26,7 +23,7 @@ Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 mata kuliah Pe
 
 ## Latar Belakang
 
-Website Company Profile Coffee Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan framework Laravel untuk backend dan Bootstrap untuk antarmuka pengguna.
+Website Company Profile Coffee Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan framework Laravel.
 
 <br />
 
