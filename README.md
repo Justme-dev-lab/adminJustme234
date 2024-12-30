@@ -36,7 +36,7 @@ Logo yang kami terapkan pada aplikasi ini mengambil tema yang serupa yaitu denga
 
 <p>
     <span>
-        <img src="https://github.com/Justme-dev-lab/adminJustme234/tree/main/public/img/Logo.png" width="300px" alt="Logo Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="300px" alt="Logo Coffee Been">
     </span>
 </p>
 
@@ -76,7 +76,7 @@ Database aplikasi web perusahaan terhubung dengan halaman product dengan fitur s
 
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="500px" alt="Home Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="500px" alt="Home Page Coffee Been">
     </span>
 </p>
 
@@ -85,16 +85,16 @@ Database aplikasi web perusahaan terhubung dengan halaman product dengan fitur s
 Products:
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="500px" alt="Products Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="500px" alt="Products Page Coffee Been">
     </span>
 </p>
 
 Product:
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kintamani.jpeg" width="500px" alt="Kintamani Page Coffee Been">
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="500px" alt="Mandailing Page Coffee Been">
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="500px" alt="Bajawa Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kintamani.jpeg" width="500px" alt="Kintamani Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="500px" alt="Mandailing Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="500px" alt="Bajawa Page Coffee Been">
     </span>
 </p>
 
@@ -102,7 +102,7 @@ Product:
 
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="500px" alt="About Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="500px" alt="About Page Coffee Been">
     </span>
 </p>
 
@@ -110,7 +110,7 @@ Product:
 
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="500px" alt="Contact Page Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="500px" alt="Contact Page Coffee Been">
     </span>
 </p>
 
@@ -118,7 +118,7 @@ Product:
 
 <p align="left" valign="top">
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.JPG" width="500px" alt="Penggunaan Database Coffee Been">
+        <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.JPG" width="500px" alt="Penggunaan Database Coffee Been">
     </span>
 </p>
 
