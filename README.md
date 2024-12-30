@@ -23,13 +23,11 @@ Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 mata kuliah Pe
 5. Thariq Aziz (1519623042)
 
 <br />
-<br />
 
 ## Latar Belakang
 
 Website Company Profile Coffee Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan framework Laravel untuk backend dan Bootstrap untuk antarmuka pengguna.
 
-<br />
 <br />
 
 ## Logo Website
@@ -38,7 +36,7 @@ Logo yang kami terapkan pada aplikasi ini mengambil tema yang serupa yaitu denga
 
 <p>
     <span>
-        <img src=<img src="https://github.com/Justme-dev-lab/adminJustme234/tree/main/public/img/Logo.png" width="300px" alt="Logo Coffee Been">
+        <img src=<img src="[https://github.com/Justme-dev-lab/adminJustme234/tree/main/public/img/Logo.png](https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png)" width="300px" alt="Logo Coffee Been">
     </span>
 </p>
 
@@ -46,7 +44,6 @@ Logo yang kami terapkan pada aplikasi ini mengambil tema yang serupa yaitu denga
 
 Aplikasi website kami memiliki fitur perngisian formulir oleh pengunjung.
 
-<br />
 <br />
 
 ## Penjelasan Halaman dan Database
@@ -71,7 +68,6 @@ Pengunjung dapat menghubungi Coffee Been melalui formulir yang disediakan. Halam
 
 Database aplikasi web perusahaan terhubung dengan halaman product dengan fitur seed dan formulir contact.
 
-<br />
 <br />
 
 ## Screenshot Halaman
